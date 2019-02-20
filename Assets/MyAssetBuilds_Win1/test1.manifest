@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3281447790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7529b23ae84018dd4f7e322d698b27aa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texture/advanceOptionTexture/school_cha8_xiongmao.png
+- Assets/Texture/advanceOptionTexture/school_cha8_huanxiong.png
+- Assets/Texture/advanceOptionTexture/school_cha1_phone.png
+- Assets/Texture/advanceOptionTexture/school_cha11_jiguoxiaoxi.png
+- Assets/Texture/advanceOptionTexture/shool_cha18_namebg.png
+- Assets/Texture/advanceOptionTexture/school_cha2_house2.png
+- Assets/Texture/advanceOptionTexture/school_cha1_phone1.png
+- Assets/Texture/advanceOptionTexture/school_guaduan.png
+- Assets/Texture/advanceOptionTexture/school_jieting.png
+- Assets/Texture/advanceOptionTexture/school_cha15_dati.png
+- Assets/Texture/advanceOptionTexture/school_cha7_baoweike.png
+- Assets/Texture/advanceOptionTexture/school_cha2_datiqin.png
+- Assets/Texture/advanceOptionTexture/school_cha7_paizhao.png
+- Assets/Texture/advanceOptionTexture/school_cha10_jiguotongzhi.png
+- Assets/Texture/advanceOptionTexture/school_cha13_tiyuchang.png
+- Assets/Texture/advanceOptionTexture/school_cha5_coffee.png
+- Assets/Texture/advanceOptionTexture/school_cha13_wugui.png
+- Assets/Texture/advanceOptionTexture/school_cha4_xiangji.png
+- Assets/Texture/advanceOptionTexture/school_cha7_baoweike1.png
+- Assets/Texture/advanceOptionTexture/school_cha2_house3.png
+- Assets/Texture/advanceOptionTexture/school_cha9_ipad.png
+- Assets/Texture/advanceOptionTexture/school_cha7_tianjiahaoyou.png
+- Assets/Texture/advanceOptionTexture/school_cha17_tongxunlu.png
+- Assets/Texture/advanceOptionTexture/school_cha11_xiaoyuantong.png
+- Assets/Texture/advanceOptionTexture/school_shouji.png
+- Assets/Texture/advanceOptionTexture/school_xuanzekuang.png
+- Assets/Texture/advanceOptionTexture/school_bodadianhua.png
+- Assets/Texture/advanceOptionTexture/school_cha4_haibao.png
+- Assets/Texture/advanceOptionTexture/school_cha5_water.png
+- Assets/Texture/advanceOptionTexture/school_cha7_tongguo.png
+- Assets/Texture/advanceOptionTexture/school_cha6_tongzhi.png
+- Assets/Texture/advanceOptionTexture/school_cha2_house1.png
+- Assets/Texture/advanceOptionTexture/school_cha7_goutou1.png
+- Assets/Texture/advanceOptionTexture/school_cha8_weixin.png
+- Assets/Texture/advanceOptionTexture/school_cha11_choosepic.png
+- Assets/Texture/advanceOptionTexture/school_cha17_tongxunlu2.png
+- Assets/Texture/advanceOptionTexture/school_cha7_goutou2.png
+- Assets/Texture/advanceOptionTexture/school_cha18_map.png
+- Assets/Texture/advanceOptionTexture/school_cha11_sendbrother.png
+- Assets/Texture/advanceOptionTexture/school_cha6_tuisong.png
+- Assets/Texture/advanceOptionTexture/school_cha7_shouji.png
+- Assets/Texture/advanceOptionTexture/school_cha13_benzi.png
+- Assets/Texture/advanceOptionTexture/school_cha2_xiaotiqin.png
+- Assets/Texture/advanceOptionTexture/school_cha9_suochonglou.png
+Dependencies: []
